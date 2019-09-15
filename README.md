@@ -1,4 +1,4 @@
-# Snake game using SDL (C/C++ development library)
+# Snake game using SDL
 
 <img src="img/img1.png" width="800"/>
 

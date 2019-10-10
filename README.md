@@ -2,6 +2,8 @@
 
 <img src="img/img1.png" width="800"/>
 
+SDL is Simple DirectMedia Layer.It is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It can be used to make animations and video games.
+
 This is the classic Snake game. It is built using SDL (<http://www.libsdl.org>)
 a C/C++ cross-platform library. The language used to build the game is C++.
 

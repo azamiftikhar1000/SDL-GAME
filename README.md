@@ -43,13 +43,12 @@ sudo make install
 cd snake-game-sdl
 make
 ```
-
 ## Run the Game
 
 To run the game, type the following:
 ```shell
 ./snake
 ```
-
+### END
 
 
